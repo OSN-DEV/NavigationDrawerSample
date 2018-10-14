@@ -1,2 +1,5 @@
 # NavigationDrawerSample
 NavigationDrawerのサンプル
+
+Toolbar・Actionbarの２ケース。メニューはRecycleViewやNavigationViewを使用せずにFragmentを使っています。なので、メニューで選択された時の処理はコールバックを使用しています。
+※コールバックの受け取りに関しては、もう少し良い方法があるかもしれません。。
